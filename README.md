@@ -9,6 +9,14 @@ WarungAI is an open-source system designed to assist Micro, Small, and Medium En
 
 This repository acts as the root project that links the **backend** and **frontend** codebases via Git Submodules.
 
+---
+
+## Demo Video
+
+![Demo Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRiZ3dzMjU3bjN1c2p3Zm5zOTR2aGVmaHY1eWc0N202MG52NnFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ydkFBpxlRbZ5QNaV7Z/giphy.gif)
+
+---
+
 ## Repository Structure
 
 The project is divided into two main components:
@@ -41,22 +49,6 @@ Each component (backend and frontend) must be configured and run individually.
 
 Environment setup, installation steps, and detailed documentation are available in their respective repositories.
 
-## Running the Project
-
-### Backend
-
-```bash
-cd backend
-bun run dev
-```
-
-### Frontend
-
-```bash
-cd frontend
-npm run dev
-```
-
 ## Documentation
 
 For detailed instructions, API specifications, folder structures, and environment configuration, refer to the documentation within each repository:
@@ -67,3 +59,5 @@ For detailed instructions, API specifications, folder structures, and environmen
 ## License
 
 Licensed under the MIT License.
+
+Bilang aja.
