@@ -66,5 +66,3 @@ For detailed instructions, API specifications, folder structures, and environmen
 ## License
 
 Licensed under the MIT License.
-
-Bilang aja.
