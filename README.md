@@ -140,8 +140,6 @@ Run:
 docker-compose --profile dev up warungai-frontend-dev
 ```
 
-(Backend may use its own compose file.)
-
 ## Contributing
 
 We welcome community contributions.
