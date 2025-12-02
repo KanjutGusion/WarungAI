@@ -14,9 +14,6 @@ This repository acts as the root project that links the **backend** and **fronte
 ## Demo Video
 
 <div align="center">
-
-## Demo Video
-
 ![Demo Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRiZ3dzMjU3bjN1c2p3Zm5zOTR2aGVmaHY1eWc0N202MG52NnFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ydkFBpxlRbZ5QNaV7Z/giphy.gif)
 
 </div>
