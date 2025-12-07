@@ -53,6 +53,12 @@ git submodule update --init --recursive
 
 ## Setting Up
 
+### Nota example
+![Alt text](./nota-2.jpg)
+
+
+[Klik untuk download nota](./nota-2.jpg)
+
 Each component (backend and frontend) must be configured and run individually.
 
 Environment setup, installation steps, and detailed documentation are available in their respective repositories.
