@@ -4,7 +4,10 @@
 [![Project Type](https://img.shields.io/badge/Project-Hackathon%20%26%20OpenSource-red.svg)]()
 
 ## Overview
+![Alt text](./awal.jpeg)
 
+
+![Alt text](./dashboard.jpeg)
 WarungAI is an open-source system designed to assist Micro, Small, and Medium Enterprises (MSMEs), especially traditional Indonesian shops. The project provides AI-assisted tools, including OCR-based receipt parsing and a modern dashboard interface.
 
 This repository acts as the root project that links the **backend** and **frontend** codebases via Git Submodules.
@@ -14,8 +17,8 @@ This repository acts as the root project that links the **backend** and **fronte
 ## Demo Video
 
 <div align="center">
-  
-![Demo Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRiZ3dzMjU3bjN1c2p3Zm5zOTR2aGVmaHY1eWc0N202MG52NnFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ydkFBpxlRbZ5QNaV7Z/giphy.gif)
+
+[![Demo Preview](https://img.youtube.com/vi/J5QUBdW2Qik/hqdefault.jpg)](https://www.youtube.com/watch?v=J5QUBdW2Qik)
 
 </div>
 
